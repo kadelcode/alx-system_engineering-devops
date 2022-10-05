@@ -15,3 +15,4 @@ ln -s /bin/ls ./__ls__ : Create a symbolic link
 cp -u ./*.html ../ : Copy all .html files from current directory to parent directory
 mv [[:upper:]]* /tmp/u : Move files beginning with an uppercase
 rm ./*~ : Delete files ending with ~ in the current working directory
+mkdir -p welcome/to/school : Creates parent directories
