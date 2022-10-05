@@ -7,3 +7,4 @@ ls -na : Display current directory contents in long format, with user and group 
 mkdir /tmp/dir:Make dir in tmp folder
 mv /tmp/file /tmp/dir - move file to dir
 rm /tmp/dir/file - Delete file in dir
+rmdir /tmp/dir - Delete dir in tmp
