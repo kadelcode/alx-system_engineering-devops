@@ -10,3 +10,4 @@ rm /tmp/dir/file - Delete file in dir
 rmdir /tmp/dir - Delete dir in tmp
 cd - : Change to the previous working directory
 ls -la . .. /boot : List directories
+file /tmp/iamafile : Displays what type of data is in iamafile
