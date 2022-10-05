@@ -12,3 +12,4 @@ cd - : Change to the previous working directory
 ls -la . .. /boot : List directories
 file /tmp/iamafile : Displays what type of data is in iamafile
 ln -s /bin/ls ./__ls__ : Create a symbolic link
+cp -u ./*.html ../ : Copy all .html files from current directory to parent directory
