@@ -3,3 +3,4 @@ whoami # prints effective username of the current user
 groups # prints all the groups the current user is part of
 chown # changes ownership
 touch # creates an empty file
+chmod # changes file permission
