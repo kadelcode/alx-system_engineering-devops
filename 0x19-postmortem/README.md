@@ -16,3 +16,11 @@
 # Resolution and Recovery
 
 - The issue was resolved by updating the softwares and server configuration file. The website was then brought back online.
+
+# Mitigation Strategies
+
+To prevent this issue from happening again, the following mitigation strategies have been implemented:
+
+- The all configuration files has been reviewed and updated to include all required parameters.
+- A process has been put in place to review and test all server configuration changes before they are implemented.
+- A monitoring system has been implemented to detect and alert the engineering team of any outdated software issues.
