@@ -6,5 +6,9 @@
 
 - 1:00 PM PST: Users begin reporting 503 errors when attempting to access the website.
 - 1:04 PM PST: The engineering team is alerted to the issue and begins investigating on the issue.
-- 1:15 PM PST: The engineering team identifies the issue and found out that the server was overloaded with traffic due to some outdated softwares.
+- 1:15 PM PST: The engineering team identifies the issue and found out that the server was overloaded with traffic.
 - 1:30 PM PST: The softwares were completely updated and the website is brought back online.
+
+# Root Cause
+
+- The root cause of the issue was due to some outdated softwares, which made the server to malfunction.
