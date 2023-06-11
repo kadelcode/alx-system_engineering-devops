@@ -19,6 +19,8 @@
 
 - The issue was resolved by updating the softwares and server configuration file. The website was then brought back online.
 
+![Image alt text](https://github.com/kadelcode/Images/blob/main/giphy.gif)
+
 # Mitigation Strategies
 
 To prevent this issue from happening again, the following mitigation strategies have been implemented:
