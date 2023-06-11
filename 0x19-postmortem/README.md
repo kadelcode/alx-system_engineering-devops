@@ -12,3 +12,7 @@
 # Root Cause
 
 - The root cause of the issue was due to some outdated softwares, which made the server to malfunction.
+
+# Resolution and Recovery
+
+- The issue was resolved by updating the softwares and server configuration file. The website was then brought back online.
